@@ -1,0 +1,19 @@
+{
+  "name": "dodb",
+  "version": "1.0.0",
+  "description": "Document oriented db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raikkon88/document-oriented-db.git"
+  },
+  "author": "Marc Sànchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raikkon88/document-oriented-db/issues"
+  },
+  "homepage": "https://github.com/raikkon88/document-oriented-db#readme"
+}
